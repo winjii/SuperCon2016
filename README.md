@@ -1,4 +1,5 @@
 第22回スーパーコンピューティングコンテスト SuperCon2016 で書いたプログラムです。
+
 チーム名: GhostDiv
 
 大会HP: https://www.gsic.titech.ac.jp/supercon/main/attwiki/index.php?SupercomputingContest2016
